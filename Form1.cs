@@ -76,18 +76,18 @@ namespace GuessTheWord
             Woerterliste.Add("Blasius");
             Woerterliste.Add("AnnaLena");
             Woerterliste.Add("Nico");
-            Woerterliste.Add("Erik");
-            Woerterliste.Add("Edi");
-            Woerterliste.Add("Elias");
-            Woerterliste.Add("Lars");
-            Woerterliste.Add("Paul");
-            Woerterliste.Add("Daniel");
-            Woerterliste.Add("Alexander");
-            Woerterliste.Add("Sascha");
-            Woerterliste.Add("Mert");
-            Woerterliste.Add("Wojciech");
-            Woerterliste.Add("Fissl");
-            Woerterliste.Add("Schmitz");
+            Woerterliste.Add("Esfrgdsfb");
+            Woerterliste.Add("sgsdg");
+            Woerterliste.Add("Erztrts");
+            Woerterliste.Add("Lfgnb");
+            Woerterliste.Add("Pbtrs");
+            Woerterliste.Add("Dngtrz");
+            Woerterliste.Add("h");
+            Woerterliste.Add("zt");
+            Woerterliste.Add("Mg");
+            Woerterliste.Add("f");
+            Woerterliste.Add("r");
+            Woerterliste.Add("w");
         }
 
         private string GetNewWordFromPool()
